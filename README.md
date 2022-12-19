@@ -2,13 +2,15 @@
 
 Here is the repository for the Module 2 homework, VBA Challenge.
 
-Included are:
+## Included are:
 
-	VBA Script file containing code
+VBA Script file containing code
   
-	Image files for screenshots of final execution of script in excel (2018, 2019, 2020)
+Image files for screenshots of final execution of script in excel (2018, 2019, 2020)
 	
-  This README
+This README
 	
-Below is the repository link if needed.
+## Repository Link
+
+https://github.com/rbw9891/VBA-challenge
 
